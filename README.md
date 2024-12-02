@@ -1,3 +1,7 @@
+🌌 Bienvenue dans mon GitHub !
+
+👨‍🚀 Qui suis-je ?
+
 Étudiant à l'école La Plateforme, passionné par le développement web et la cybersécurité.
 
 
@@ -10,3 +14,6 @@
 🖥️ Langages : HTML, CSS, Python
 🛠️ Outils : Git, Linux, Vs Code, VMware Workstation
 
+
+👾 Me contacter
+📡 Email : scott.allo@laplateforme.io
