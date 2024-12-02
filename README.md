@@ -34,8 +34,6 @@ Tattooing: Designing and creating custom tattoos, a passion for self-expression 
 
 
 
-![Cover](cover_github.jpg)
-
 
 
 
