@@ -14,7 +14,10 @@ A student at La Plateforme school, passionate about web development and cybersec
 
 
 🔧 Technologies & Tools
+
 🖥️ Languages: HTML, CSS, Python
+
+
 🛠️ Tools: Git, Linux, VS Code, VMware Workstation
 
 
