@@ -14,6 +14,11 @@
 🖥️ Langages : HTML, CSS, Python
 🛠️ Outils : Git, Linux, Vs Code, VMware Workstation
 
+🎨 Passions :
+
+Dessin & Art : Création artistique, illustration, exploration de différents médiums
+Tatouage : Design et création de tatouages personnalisés, passion pour l'expression corporelle à travers l'encre
+
 
 👾 Me contacter
 📡 Email : scott.allo@laplateforme.io
