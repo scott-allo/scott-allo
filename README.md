@@ -2,7 +2,7 @@
 
 👨‍🚀 Who am I?
 
-A student at La Plateforme school, passionate about web development and cybersecurity, currently looking for an apprenticeship to further develop my skills while exploring new creative passions.
+A student at La Plateforme school, passionate about web development, currently looking for an apprenticeship to further develop my skills while exploring new creative passions.
 
 
 📊 My Stats
