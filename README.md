@@ -15,7 +15,7 @@ A student at La Plateforme school, passionate about web development, currently l
 
 🔧 Technologies & Tools
 
-🖥️ Languages: HTML, CSS, Python, PHP
+🖥️ Languages: HTML, CSS, Javascript, PHP, MYSQL, Python,
 
 
 🛠️ Tools: Git, Linux, VS Code, VMware Workstation
